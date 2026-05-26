@@ -22,3 +22,4 @@ Praticar trabalho em equipe usando branches, commits semanticos, Pull Requests e
 ## Contribuicoes do Amim
 
 - Criou a estrutura inicial do projeto.
+- Organizou o README com objetivo, integrantes e funcionalidades.
