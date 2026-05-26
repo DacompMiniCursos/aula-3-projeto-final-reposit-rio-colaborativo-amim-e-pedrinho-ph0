@@ -19,6 +19,11 @@ Praticar trabalho em equipe usando branches, commits semanticos, Pull Requests e
 - Historico de commits organizado
 - Revisao de codigo via Pull Request
 
+## Contribuicoes do Pedrinho
+
+- Criou uma branch propria para trabalhar em paralelo.
+- Registrou sua participacao no README do projeto.
+- Participou do fluxo de Pull Request e Code Review.
 ## Contribuicoes do Amim
 
 - Criou a estrutura inicial do projeto.
