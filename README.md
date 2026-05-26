@@ -24,3 +24,8 @@ Praticar trabalho em equipe usando branches, commits semanticos, Pull Requests e
 - Criou uma branch propria para trabalhar em paralelo.
 - Registrou sua participacao no README do projeto.
 - Participou do fluxo de Pull Request e Code Review.
+## Contribuicoes do Amim
+
+- Criou a estrutura inicial do projeto.
+- Organizou o README com objetivo, integrantes e funcionalidades.
+- Preparou a base para o fluxo com Pull Requests.
