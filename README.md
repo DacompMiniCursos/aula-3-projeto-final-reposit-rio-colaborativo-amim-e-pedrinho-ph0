@@ -23,3 +23,4 @@ Praticar trabalho em equipe usando branches, commits semanticos, Pull Requests e
 
 - Criou uma branch propria para trabalhar em paralelo.
 - Registrou sua participacao no README do projeto.
+- Participou do fluxo de Pull Request e Code Review.
