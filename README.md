@@ -23,3 +23,4 @@ Praticar trabalho em equipe usando branches, commits semanticos, Pull Requests e
 
 - Criou a estrutura inicial do projeto.
 - Organizou o README com objetivo, integrantes e funcionalidades.
+- Preparou a base para o fluxo com Pull Requests.
