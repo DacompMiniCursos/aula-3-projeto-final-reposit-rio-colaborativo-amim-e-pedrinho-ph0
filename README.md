@@ -18,3 +18,9 @@ Praticar trabalho em equipe usando branches, commits semanticos, Pull Requests e
 - Documentacao colaborativa
 - Historico de commits organizado
 - Revisao de codigo via Pull Request
+
+## Contribuicoes do Amim
+
+- Criou a estrutura inicial do projeto.
+- Organizou o README com objetivo, integrantes e funcionalidades.
+- Preparou a base para o fluxo com Pull Requests.
